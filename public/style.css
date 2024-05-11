@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    font-family: "Montserrat", sans-serif;
+    background-image: url('assets/background_image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.center-div{
+    padding-top: 10%;
+}
+button{
+    margin-top: 10%;
+    width: 150px;
+    
+}
+
+.btn.btn-success{
+    padding: .4em 2em;
+}
+
+form{
+    padding:0 1em;
+}
+
+#login.title>span{
+    font: size 0.8em;
+}
